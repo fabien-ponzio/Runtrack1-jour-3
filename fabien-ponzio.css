@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: tomato;
+    border: solid;
+    border-radius: 20px 20px;
+    box-shadow: 20px 20px 30px;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/51qacf-Cf4L._AC_UL160_.jpg);
+    height: 55px;
+}
+h2 {
+    color: teal;
+   background-color: powderblue;
+   text-align: center;
+   border: solid;
+   width: 50vw;
+   padding-right: 80px;
+   padding-left: 80px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image:hover {border-radius: 100%;}
+
+
+    
+
+
+
+
+
